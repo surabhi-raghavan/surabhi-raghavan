@@ -22,7 +22,6 @@ I am a grad student at the University of Pittsburgh- focusing on Big Data and it
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src ="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg"  title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src ="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"  title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src ="https://github.com/devicons/devicon/blob/master/icons/dart/dart-plain.svg"  title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
    <img src ="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg"  title="HTML5" alt="HTML5  " width="40" height="40"/>&nbsp;
   <img src ="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg"  title="Java" alt="Java" width="40" height="40"/>&nbsp;
